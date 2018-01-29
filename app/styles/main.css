@@ -1,0 +1,145 @@
+*{
+  margin:0; padding:0;
+  font-size:inherit;
+  color:inherit;
+  -webkit-font-smoothing: antialiased;
+}
+button::-moz-focus-inner {padding:0;border:0;}
+a {outline:none;
+  text-decoration:none;
+  background-color:transparent;
+  background-size: contain;
+
+  font-size:11px;
+  color:#2d2a2b ;
+}
+
+
+
+
+body {
+  height: auto !important;
+  min-height: 100%;
+  position: relative;
+
+  font-size:56px;
+  text-align: center;
+  color: green;
+
+}
+.container_head{
+  max-width: 1920px;
+  width: 100%;
+  background-color: gray;
+  padding-left: 142px;
+}
+.cont{
+  width: 809px;
+  background-color: white;
+}
+.head_text1{
+ font-size: 24px;
+  color: black;
+  padding-top: 430px;
+  padding-left: 66px;
+  padding-right: 90px;
+  text-align: left;
+}
+.foot{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 369px;
+    padding-bottom: 88px;
+}
+.tech{
+  height: 41px;
+ font-size: 20px;
+  background-color:black;
+  -webkit-border-radius: 60px 0px 0px 60px;
+  border-radius: 60px 0px 0px 60px;
+    line-height:41px;
+    color: white;
+
+
+}
+
+
+span{
+    font-size: 20px;
+    margin-top: 20px;
+    display: block;
+    padding-right: 20px;
+
+
+}
+
+.clearfix{
+clear: both;
+}
+
+
+.top_b{
+  padding-top: 10px;
+  width: 25%;
+  float: left;
+  border-right: 2px solid black;
+  padding-right: 0 ;
+}
+.top_b span{
+    color: black;
+    padding-left: 25px;
+
+}
+.top_c{
+    padding-top: 10px;
+    width: 25%;
+    float: left;
+    border-right: 2px solid #03246c;
+    padding-right: 0 ;
+}
+.ent{
+    height: 41px;
+    font-size: 20px;
+    background-color:#03246c;
+    color: white;
+    line-height:41px;
+}
+.top_c span{
+
+    color:#03246c ;
+
+}
+.top_d{
+    padding-top: 10px;
+    width: 25%;
+    float: left;
+    border-right: 2px solid #028090;
+
+}
+.pro{
+    height: 41px;
+    font-size: 20px;
+    background-color:#028090;
+    color: white;
+    line-height:41px;
+}
+.top_d span{
+    color:#028090 ;
+}
+.top_e{
+    width: 23%;
+    padding-top: 10px;
+    float: left;
+    display: block;
+    border-right: 2px solid #28aeaf;
+}
+.dir{
+    height: 41px;
+    font-size: 20px;
+    background-color:#28aeaf;
+    color: white;
+    line-height:41px;
+}
+.top_e span{
+    color: #28aeaf;
+}

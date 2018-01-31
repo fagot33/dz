@@ -9,7 +9,7 @@ $('.owl-carousel').owlCarousel({
     autoplay:true,
     smartSpeed:1000,
     autoplayTimeout:2000,
-    navText : ['Это было легко','тыц-тыц'],
+    navText : ['<i class="fa fa-arrow-right" aria-hidden="true"></i>','<i class="fa fa-arrow-left" aria-hidden="true"></i>'],
     responsive:{
         0:{
             items:1
